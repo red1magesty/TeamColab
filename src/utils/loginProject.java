@@ -7,6 +7,9 @@ public class loginProject {
     //name
     //last name
     //date of birth
+    // more personnel info
+    //.........
+    // account has been created
 
 
 
